@@ -1,0 +1,15 @@
+.navbar-nav a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.container div {
+    height: 1000px;
+    background-color: grey;
+    margin-top: 20px;
+}
+
+h1 {
+    margin-top: 20px;
+}
